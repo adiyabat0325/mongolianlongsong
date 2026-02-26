@@ -32,5 +32,5 @@ Supplementary website for research materials, demos, and datasets.
 ---
 
 ## Contact
-Email: your@email.com  
-GitHub: https://github.com/YOUR_GITHUB_USERNAME/mongolianlongsong
+Email: adiyabat.e@gmail.com  
+GitHub: https://github.com/adiyabat0325/mongolianlongsong
